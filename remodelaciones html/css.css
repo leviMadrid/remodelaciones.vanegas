@@ -1,0 +1,125 @@
+﻿body {
+    
+    margin:0%;
+    padding:0%;
+    font-size:16px;
+    background-image: url(https://levisremodelanes.000webhostapp.com/IMG%20HTML/policia3.jpeg);
+    background-repeat: no-repeat;
+   
+    
+}
+.inicio {
+    margin: 0;
+    padding: 0;
+}
+.galeria{
+    background-color:aqua;
+    margin:0%;
+    padding:0%;
+    text-align:center;
+    
+}
+h1{
+    text-align:center;
+}
+.menu{
+    background-color: rgb(173, 30, 30);
+    text-align:center;
+}
+.menu ul{
+        list-style: none;
+}
+.menu ul li{    
+    display:inline-block;
+}
+.menu ul li a {
+        color: white;
+        display: block;
+        padding: 10px;
+        text-decoration: none;
+    }
+
+.menu ul li a:hover {
+    background-color: blue;
+}
+.sala{
+    align-items: end;
+display:grid;
+grid-template-columns:repeat(2, 1fr);
+}
+
+.telefono {
+    
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    align-items:center;
+}
+.numero a{
+    color:white;
+}
+.video {
+    background-image: url(file:///C:/Users/eduar/OneDrive/Escritorio/remodelaciones%20html/IMG%20HTML/26.jpeg);
+}
+.fotovideo {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 100px;
+    background-image: url(file:///C:/Users/eduar/OneDrive/Escritorio/remodelaciones%20html/IMG%20HTML/57.jpeg);
+}
+.llama{
+    
+    background-color:black;
+    
+}
+.contactanos{
+   text-align: center;
+  
+   
+}
+.titulo{
+    text-align:center;
+    background-color: brown;
+    color:aliceblue;
+    position:absolute;
+    margin:0 0 120px 0;
+}
+.h3{
+
+    color:aliceblue;
+  
+}
+#tabla{
+    text-align: center;
+}
+.dentro{
+    background-color: black;
+    color: chocolate;
+}
+.loco{
+    color: rgba(66, 37, 34, 0.699);
+    margin: 0 auto;
+    padding: 20px;
+    background-color: rgba(192, 226, 43, 0.247);
+}
+button{
+    color: rgb(255, 115, 0);
+    background-color: black;
+}
+.callnow{
+    margin: 20px;
+    padding: 10px;
+    gap: 10px;
+}
+.ultimo{
+    text-align:end;
+    margin-top: 300px;
+    text-size-adjust: 10px;
+    color: darkred;
+}
+.ultimoimg{
+    color: brown;
+}
+.btncolor a{
+    color: rgb(255, 255, 255);
+}
